@@ -2,12 +2,10 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: Info
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: Writer, filmmaker, coach, entrepreneur
+      - Title: I spend my days learning, creating, and sharing. I’m doing what I was born to do—living fully. Whether I’m running my business, coaching people, writing, making films, or exploring new ideas, my life is about creating and serving every day, in whatever way I can. I’m not a noun, I’m a verb—constantly evolving and finding ways to help others live more fully. Whatever form it takes, my work is driven by the desire to make a meaningful impact.
 
   - title: all posts
     post_list:
