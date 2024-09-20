@@ -1,7 +1,7 @@
 title: Garth Dew # name of the site
 author: Garth Dew # name of site's author
 email: garth@gdvideo.co.uk # email of site's author
-url: https://garthdew.github.io/garthdew/ # root address of the site
+url: "https://garthdew.github.io" # root address of the site
 baseurl: "/garthdew" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   A (nearly) no-CSS, fast, minimalist Jekyll theme.
